@@ -1,0 +1,34 @@
+[
+    {
+        "role": "NLP intern at IIT-Indore",
+        "organisation": "IIT-Indore",
+        "startDate": "August,2023",
+        "endDate": "Present",
+        "experiences": ["Dataset curation namely the Indic-ST from scratch", "Fine-tuning fairseq models to work well with Indic data suite"],
+        "imageSrc": "history/microsoft.png"
+    },
+    {
+        "role": "Prism Intern",
+        "organisation": "Samsung",
+        "startDate": "March,2024",
+        "endDate": "Present",
+        "experiences": ["NEON implementation of OpenCV"],
+        "imageSrc": "history/netflix.png"
+    },
+    {
+        "role": "Prism Intern",
+        "organisation": "Samsung",
+        "startDate": "June,2023",
+        "endDate": "January,2024",
+        "experiences": ["Created a gRPC service in Rust and Java"],
+        "imageSrc": "history/google.png"
+    },
+    {
+        "role": "ML Intern at Spartificial",
+        "organisation": "Spartificial",
+        "startDate": "November,2021",
+        "endDate": "January,2022",
+        "experiences": ["Executed ML models on specified datasets", "Improved performance and accuracy of said models"],
+        "imageSrc": "history/google.png"
+    }   
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Indic-DSU",
+        "imageSrc": "projects/project.png",
+        "description": "DSU genaration for Indic Languages",
+        "skills": ["fairseq","HuBERT","Python"],
+        "demo": "https://www.kaggle.com/code/sahilkhirwal/hubert-fine-tuning",
+        "source": "https://github.com/saan04/dsu-for-indic"
+    },
+    {
+        "title": "MMS-Aligner",
+        "imageSrc": "projects/project.png",
+        "description": "Levaraging MMS aligner for forced alignment",
+        "skills": ["fairseq","AI4Bharat","Python"],
+        "demo": "https://www.kaggle.com/code/nairsaanvi/mms-mni/edit",
+        "source": "https://github.com/saan04/mms_forced-aligner"
+    },
+    {
+        "title": "Pyannote-for-kaggle",
+        "imageSrc": "projects/project.png",
+        "description": "Pyannote usage for diarizing the voices in a given speech audio",
+        "skills": ["Speaker Diarization","Python"],
+        "demo": "https://www.kaggle.com/code/nairsaanvi/pyannote-playground/edit",
+        "source": "https://github.com/saan04/pyannote-diarization"
+    }
+]
