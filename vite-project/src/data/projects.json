@@ -22,5 +22,13 @@
         "skills": ["Speaker Diarization","Python"],
         "demo": "https://www.kaggle.com/code/nairsaanvi/pyannote-playground/edit",
         "source": "https://github.com/saan04/pyannote-diarization"
+    },
+    {
+        "title": "CasperBuddy",
+        "imageSrc": "projects/project.png",
+        "description": "An NLP startup dedicated to Casper.",
+        "skills": ["NLP","Python"],
+        "demo": "Coming Soon",
+        "source": "Coming Soon"
     }
 ]
